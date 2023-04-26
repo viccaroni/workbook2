@@ -1,13 +1,16 @@
-// declare variable "a" and assigning a string to it
-//parseint
-var a = "100";
+"use strict";
+
+//parseInt
+//declaring variable a and assigning a string to it
+var a = " 100 " ;
 var b = parseInt(a);
- var dataTypeOfAVariable = typeof(a);
-console.log(typeof(a));
+console.log("b is " + b);
 
-var dataTypeOfBVariable = typeof(b);
-console.log(typeof(b));
+var dataTypeOfAVariable = typeof a;
+console.log(dataTypeOfAVariable);
 
+var dataTypeOfBVariable = typeof b;
+console.log(dataTypeOfBVariable);
 
 
 //parseFloat
