@@ -9,11 +9,11 @@ var stevens = "402 Stevens";
 var numberFive = "Number 5";
 
 a = parseInt(oneHundred);
-console.log("The result for " + oneHundred + " is " + a);
+console.log("The parse int result for " + oneHundred + " is " + a);
 
 b = parseFloat(oneHundred);
-console.log("The result for " + oneHundred + " is " + b)
+console.log("The parse float result for " + oneHundred + " is " + b)
 
 c = Number("101.1");
-console.log("The result for " + oneHundred + " is " + c);
+console.log("The number result for " + oneHundred + " is " + c);
 
