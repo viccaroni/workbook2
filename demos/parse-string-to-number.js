@@ -7,7 +7,6 @@ console.log(typeof(a));
 
 var dataTypeOfBVariable = typeof(b);
 console.log(typeof(b));
-"use strict";
 
 
 
