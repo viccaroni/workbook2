@@ -1,4 +1,4 @@
-//const and let is the same as var
+//const and let is the same as var but it cant be changed
 const firstName = "Dana";
 let count = 0;
 let message;
